@@ -2,6 +2,7 @@
 #include<string>
 
 #define MAX 8
+#pragma warning(disable:4996)
 using namespace std;
 
 int n,m;
